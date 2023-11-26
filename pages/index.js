@@ -36,6 +36,7 @@ const EditorComponent = () => {
       ejInstance.current = null;
     };
   }, []);
+}
 
 export default function Home() {
   return (
